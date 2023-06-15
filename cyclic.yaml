@@ -1,0 +1,5 @@
+jobs:
+  - name: bot
+    image: python:latest
+    commands:
+      - python bot.py
