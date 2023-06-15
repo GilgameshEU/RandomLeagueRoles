@@ -30,7 +30,7 @@ async def choose_roles(ctx, *users):
 
 
 def main():
-    bot.run('MTExODk5NzE4Mjk4NTU0MzgyMA.G-C1Da.f4C9h0i3v_fqCSil-3017k9B1YHJqYx5lJNEx0')
+    bot.run('BOT_TOKEN')
 
 if __name__ == '__main__':
     main()
